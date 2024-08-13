@@ -1,0 +1,139 @@
+
+[
+    {
+      "entity": {
+        "rating": null,
+        "last_name": "Kline",
+        "external_reference_code": null,
+        "send_reminder_email": true,
+        "external_user_id": null,
+        "updated": "2019-09-13T17:28:03.813917",
+        "check_numbers": null,
+        "shift_persistent_id": "ahhzfnNldmVucm9vbXMtc2VjdXJlLWRlbW9yHAsSD25pZ2h0bG9vcF9WZW51ZRiAgNCKuYezCgw-DINNER-1554165523.99",
+        "left_time": null,
+        "email": "evan@sevenrooms.com",
+        "status_simple": "Incomplete",
+        "postal_code": "11249",
+        "comps_price_type": null,
+        "duration": 90,
+        "modify_reservation_link": "https://sevenrooms.com/direct/modify-reservation/ZjNlNmM5YTkyMGJlYWRlMjI4NmQ3NTQzOGM5MzFkZmY3ZDZjNGE1YjqAAn1xAShVGGFjdHVhbF9jcmVhdGVkX3RpbWVzdGFtcHECVRExNTQ5MTM1OTM5Ljc3NTg1MlUJYWN0dWFsX2lkcQNYVwAAAGFoWnpmbk5sZG1WdWNtOXZiWE10YzJWamRYSmxMWEZoY2ljTEVodHVhV2RvZEd4dmIzQmZVbVZ6WlhKMllYUnBiMjVCWTNSMVlXd1l3YWpDMXAtS0Jnd3EEdS4=",
+        "id": "ahhzfnNldmVucm9vbXMtc2VjdXJlLWRlbW9yJQsSG25pZ2h0bG9vcF9SZXNlcnZhdGlvbkFjdHVhbBi7-PmSCAw",
+        "reservation_type": "Special event, Pre-theater, Celebration, Booth requested, Alert GM, Comp appetizer",
+        "seated_time": null,
+        "first_name": "Evan",
+        "venue_id": "ahhzfnNldmVucm9vbXMtc2VjdXJlLWRlbW9yHAsSD25pZ2h0bG9vcF9WZW51ZRiAgJiP-Ju7Cgw",
+        "reservation_sms_opt_in": null,
+        "venue_group_client_id": "ahhzfnNldmVucm9vbXMtc2VjdXJlLWRlbW9yJwsSGm5pZ2h0bG9vcF9WZW51ZUdyb3VwQ2xpZW50GICA0I3vvLwJDA",
+        "arrived_guests": null,
+        "client_reference_code": "1GI7ZLTBRB4",
+        "state": "New York",
+        "send_reminder_sms": false,
+        "venue_group_id": "ahhzfnNldmVucm9vbXMtc2VjdXJlLWRlbW9yIQsSFG5pZ2h0bG9vcF9WZW51ZUdyb3VwGICA0PK4o98JDA",
+        "address_2": "A310",
+        "min_price": null,
+        "custom_fields": [
+          {
+            "system_name": "fav_menu_item",
+            "display_order": 0,
+            "name": "Favorite Menu Item",
+            "value": "Mac 'N' Cheese"
+          },
+          {
+            "system_name": "custom_group_0",
+            "display_order": 0,
+            "name": "Itinerary ID",
+            "value": "custom_123"
+          }
+        ],
+        "served_by": null,
+        "client_requests": null,
+        "status": "COMPLETE",
+        "booked_by": "Evan Kline",
+        "phone_number": "+1-212-987-9686",
+        "total_payment": 50,
+        "prepayment": null,
+        "loyalty_id": "",
+        "tags": [
+          {
+            "color": "#7fb6ff",
+            "tag_display": "Special event",
+            "group_display": "Special Occasions",
+            "group": "Special Occasions",
+            "tag": "Special event"
+          },
+          {
+            "color": "#7fb6ff",
+            "tag_display": "Pre-theater",
+            "group_display": "Special Occasions",
+            "group": "Special Occasions",
+            "tag": "Pre-theater"
+          },
+          {
+            "color": "#7fb6ff",
+            "tag_display": "Celebration",
+            "group_display": "Special Occasions",
+            "group": "Special Occasions",
+            "tag": "Celebration"
+          },
+          {
+            "color": "#e2e7e9",
+            "tag_display": "Booth requested",
+            "group_display": "Seating Request",
+            "group": "Seating Request",
+            "tag": "Booth requested"
+          },
+          {
+            "color": "#f374d0",
+            "tag_display": "Alert GM",
+            "group_display": "Special Attention",
+            "group": "Special Attention",
+            "tag": "Alert GM"
+          },
+          {
+            "color": "#bdc4fb",
+            "tag_display": "Comp appetizer",
+            "group_display": "Comps",
+            "group": "Comps",
+            "tag": "Comp appetizer"
+          }
+        ],
+        "deleted": null,
+        "mf_ratio_male": 0,
+        "mf_ratio_female": 0,
+        "comps": null,
+        "external_client_id": null,
+        "client_id": "ahhzfnNldmVucm9vbXMtc2VjdXJlLWRlbW9yJwsSGm5pZ2h0bG9vcF9WZW51ZUdyb3VwQ2xpZW50GICA0I3vvLwJDA",
+        "address": "184 Kent Avenue",
+        "date": "2019-09-13",
+        "source_client_id": null,
+        "loyalty_rank": null,
+        "paid_by": null,
+        "loyalty_tier": "",
+        "onsite_payment": null,
+        "shift_category": "DINNER",
+        "table_numbers": [],
+        "max_guests": 2,
+        "arrival_time": "7:00 PM",
+        "country": "United States",
+        "cost_option": 1,
+        "created": "2019-09-13T17:27:41.225873",
+        "pos_tickets": null,
+        "access_persistent_id": null,
+        "city": "Brooklyn",
+        "is_vip": true,
+        "reference_code": "8H01Q7F",
+        "status_display": "Confirmed",
+        "external_id": null,
+        "notes": "These are Reservation Notes that also appear on a request payload",
+        "user": {
+          "id": "ahhzfnNldmVucm9vbXMtc2VjdXJlLWRlbW9yFQsSCGdhZV9Vc2VyGICAkOuAnLkKDA",
+          "name": "Evan Kline"
+        }
+      },
+      "event_type": "created",
+      "entity_type": "reservation",
+      "hotel_confirmation": null,
+      "hotel_id": null,
+      "hotel_room": null
+    }
+  ]
